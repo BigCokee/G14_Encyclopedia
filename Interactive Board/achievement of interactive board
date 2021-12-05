@@ -1,3 +1,10 @@
 Firstly, unlike the one-to-one interaction and information transfer from a mobile phone or computer, in order to achieve multi-person interaction in a public space, 
 we used a combination of interactive boards + projection to enable information to be displayed in the space for the public to experience and read. 
 
+Secondly, for the touch interaction effect, we use a combination of pressure sensor, Arduino and Processing, placing the pressure sensor under each books and guiding 
+the user to touch the books. The pressure sensor senses the pressure and transfers the data from the Arduino to the processing, which then plays an animation to further 
+display the information. 
+
+Due to the installation of sensors and the connection of hardware, we cannot project directly onto the wall. so we chose a whiteboard as the carrier, attached the sensor 
+to the front of the board and then put small holes in the board to hide the wire behind the board and connect it to the computer. The projection is then projected onto the 
+whiteboard thus enabling board interaction. 
