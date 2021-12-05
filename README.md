@@ -4,3 +4,4 @@ Our project is an interactive projection installation of Encyclopaedia Britannic
 The encyclopedia text data analysis is in *./G14_Encyclopedia_V1-V8_Visualization* (including the pre-preparation description of the function library to be installed)
 
 Project video display link: 
+https://drive.google.com/file/d/1ndKj3Sr_qCjcdOltwxU9Tbb0I9iPWfMt/view?usp=sharing
