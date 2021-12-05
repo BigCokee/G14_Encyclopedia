@@ -1,0 +1,29 @@
+Data set is from encyclopedia Britannica’OCR
+
+Include 8 editions of scanned copies of the encyclopedia, from 1771 to 1860, containing 195 books, the earliest edition being from 250 years ago and therefore subject to print loss and missing scans
+Because of it is text file , so we Using Topic Modeling and LDA to analyze all 8 editions of Encyclopedia, then we get 10 topics, and shows the words frequency in every topics.
+
+According to the words every topics contain, we try to found what they are express and then name it.
+For example, the topic 8, we found that there are some words point to some economic related, and then we read paragraphs that contain those words to figure out what this topic exactly means, and then we named the topic 8 Trade.
+ 
+The third step is to Analyze the relationship between each edition and topic 
+So this graph shows Frequency Distribution of Each Topic by Edition.
+
+And also the Percentage of Topics by Edition, you can clearly see that the content of the encyclopedia changes. So then trying to find out why those changes happened.
+
+
+So after that we picked 6 topics that with strong relevance,  they are Royal Church Craft Trade Cultural and Biology,  and we extracted and analyze them separately.
+As you can see, there are some obvious turning points
+
+Combining with the previous analysis, we found that the Trade fluctuates significantly, so we decided to focus on the topic of trade and compare with the time to explore how historical events have affected it, and how Encyclopedia illustrated it
+
+Come to our final project, according to analysis we use Arduino with pressure sensor to make an interactive board by board and projector.
+Above left are the topics we focus on.
+Based on these topics, you can see the theme river is formed, and different colours or patterns is used to represent each topics , to show the percentage of these contents in the encyclopaedia at different period.
+
+On the right, we use the book images to represent the turning point of TRADE in each period
+
+Under book images, we set pressure sensors, so when you press them, 
+This will activate animation to show the main events that have influenced the trade in this period.
+
+Before 1840, trade was gradually rise because of the Industrial Revolution or Queen Victoria’s leader ship, etc., but later, because of the Opium Wars, cholera, etc., the Trade dropped sharply.
