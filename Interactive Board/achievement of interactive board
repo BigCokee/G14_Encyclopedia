@@ -8,3 +8,7 @@ display the information.
 Due to the installation of sensors and the connection of hardware, we cannot project directly onto the wall. so we chose a whiteboard as the carrier, attached the sensor 
 to the front of the board and then put small holes in the board to hide the wire behind the board and connect it to the computer. The projection is then projected onto the 
 whiteboard thus enabling board interaction. 
+
+Finally, during testing, we found that when the user is close to the board for interaction, the projected image is obscured by the user as the projector is directly behind 
+the user, which has an impact on the user's reading experience. As a next step, we may choose to change the projector to improve this issue, by using a short-focus projection 
+to avoid this problem of the user's shadow obscuring the image.
