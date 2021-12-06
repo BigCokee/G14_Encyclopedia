@@ -7,4 +7,4 @@ Our project is an interactive projection installation of Encyclopaedia Britannic
 
 The encyclopedia text data analysis is in `./G14_Encyclopedia_V1-V8_Visualization` (including the pre-preparation description of the function library to be installed)
 All the original data are in this folder: `./Encyclopedia Britannica V1-V8`
-
+The realization process of "Touching the Encyclopaedia" interactive device is in this folder: `/Interactive Board`
