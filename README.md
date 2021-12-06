@@ -1,7 +1,7 @@
 # G14_Encyclopedia
 ## UoE/Data Science for Design Project
 Project video display link: 
-https://drive.google.com/file/d/1ndKj3Sr_qCjcdOltwxU9Tbb0I9iPWfMt/view?usp=sharing
+https://drive.google.com/file/d/1T3xXwR1gTgEKsBc3CYW1xEnrk_XAAb0i/view?usp=sharing
 
 Our project is an interactive projection installation of Encyclopaedia Britannica. Since we got datasets from the National Library of Scotland, and found that it has 8 editions of 195 volumes, which is difficult for people to find information they need. For the sake of enhancing the Encyclopaedia Britannica’s readability, interactivity and enjoyment, we try to find specific relationships in it and use creative methods to immerse audiences in reading.
 
